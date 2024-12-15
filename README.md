@@ -1,0 +1,3 @@
+# Swift Type Mismatch Error
+
+This repository demonstrates a common error in Swift: passing incorrect data types to function parameters. The example shows a function that calculates the area of a rectangle.  The function is called correctly in one instance and incorrectly in another, resulting in a compiler error. The solution shows how to handle potential type mismatches using type checking or optional parameters.
